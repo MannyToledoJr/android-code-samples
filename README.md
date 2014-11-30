@@ -1,7 +1,7 @@
 android-code-samples
 ====================
 
-[@author](http://qiqi8226.com/)nbsp;nbsp;nbsp;[@mail](http://qiqi8226.com/mail/)nbsp;nbsp;nbsp;[@weibo](http://weibo.com/qiqi8226)
+[@author](http://qiqi8226.com/)   [@mail](http://qiqi8226.com/mail/)   [@weibo](http://weibo.com/qiqi8226)
 
 About
 ====================
