@@ -1,7 +1,7 @@
 android-code-samples
 ====================
 
-@author: [qiqi8226](http://qiqi8226.com/) @mail: [mail](http://qiqi8226.com/mail/) @weibo: [戚旗qiqi8226](http://weibo.com/qiqi8226)
+[@author](http://qiqi8226.com/)nbsp;nbsp;nbsp;[@mail](http://qiqi8226.com/mail/)nbsp;nbsp;nbsp;[@weibo](http://weibo.com/qiqi8226)
 
 About
 ====================
@@ -18,8 +18,7 @@ Content
 
 - [Activity参数传递与回调](ActivityParameterPassing)
 
-
 Licence
 ====================
-[Licence](http://www.apache.org/licenses/LICENSE-2.0)
+本仓库所有代码遵守 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
