@@ -1,0 +1,1 @@
+![](/img/ActivityParameterPassing.gif)

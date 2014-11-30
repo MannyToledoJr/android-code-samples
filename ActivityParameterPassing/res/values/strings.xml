@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActivityParameterPassing</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">StratNewActivityBtn1</string>
+    <string name="btn2">StratNewActivityBtn2</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="done">Done</string>
+
+</resources>
