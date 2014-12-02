@@ -18,6 +18,7 @@ Content
 
 - [Activity参数传递与回调](ActivityParameterPassing)
 - [Service的绑定与信息获取](Service)
+- [SharedPreferences存取](SharedPreferences)
 
 Licence
 ====================
