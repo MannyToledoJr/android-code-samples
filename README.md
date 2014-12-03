@@ -20,6 +20,7 @@ Content
 - [Service的绑定与信息获取](Service)
 - [SharedPreferences存取](SharedPreferences)
 - [SQLite应用](SQLite)
+- [Http网络请求](Http)
 
 Licence
 ====================
