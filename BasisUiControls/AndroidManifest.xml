@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.qiqi8226.basisuicontrols"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AtyCheckBox"
+            android:label="@string/title_activity_aty_check_box" >
+        </activity>
+        <activity
+            android:name=".AtyEditText"
+            android:label="@string/title_activity_aty_edit_text" >
+        </activity>
+        <activity
+            android:name=".AtyRadioButton"
+            android:label="@string/title_activity_aty_radio_button" >
+        </activity>
+        <activity
+            android:name=".AtySpinner"
+            android:label="@string/title_activity_aty_spinner" >
+        </activity>
+        <activity
+            android:name=".AtyDateTimePicker"
+            android:label="@string/title_activity_aty_date_time_picker" >
+        </activity>
+        <activity
+            android:name=".AtyScrollView"
+            android:label="@string/title_activity_aty_scroll_view" >
+        </activity>
+        <activity
+            android:name=".AtyImageView"
+            android:label="@string/title_activity_aty_image_view" >
+        </activity>
+    </application>
+
+</manifest>

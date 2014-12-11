@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BasisUiControls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aty_check_box">AtyCheckBox</string>
+    <string name="title_activity_aty_edit_text">AtyEditText</string>
+    <string name="title_activity_aty_radio_button">AtyRadioButton</string>
+    <string name="title_activity_aty_spinner">AtySpinner</string>
+    <string name="title_activity_aty_date_time_picker">AtyDateTimePicker</string>
+    <string name="title_activity_aty_scroll_view">AtyScrollView</string>
+    <string name="title_activity_aty_image_view">AtyImageView</string>
+
+</resources>
