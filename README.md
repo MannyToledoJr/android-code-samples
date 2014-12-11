@@ -21,6 +21,8 @@ Content
 - [SharedPreferences存取](SharedPreferences)
 - [SQLite应用](SQLite)
 - [Http网络请求](Http)
+- [简单的Ui控件使用](BasisUiControls)
+- [一些相对高级的Ui控件](AdvancedUiControl)
 
 Licence
 ====================
